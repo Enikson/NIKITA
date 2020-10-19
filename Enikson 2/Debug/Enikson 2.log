@@ -1,0 +1,9 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  Enikson 2.cpp
+E:\Projects\GitHub\NIKITA\Enikson 2\Enikson 2.cpp(35,31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\GitHub\NIKITA\Enikson 2\Enikson 2.cpp(36,31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\GitHub\NIKITA\Enikson 2\Enikson 2.cpp(42,31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\GitHub\NIKITA\Enikson 2\Enikson 2.cpp(43,31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\GitHub\NIKITA\Enikson 2\Enikson 2.cpp(49,29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\GitHub\NIKITA\Enikson 2\Enikson 2.cpp(55,29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Enikson 2.vcxproj -> E:\Projects\GitHub\NIKITA\Debug\Enikson 2.exe
